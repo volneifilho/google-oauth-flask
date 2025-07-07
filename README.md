@@ -26,8 +26,8 @@ This is a Flask project that enables users to authenticate with their Google cre
 
 ### 1. Clone the repository
 ```bash
-git clone <REPOSITORY_URL>
-cd <REPOSITORY_NAME>
+git clone https://github.com/volneifilho/google-oauth-flask.git
+cd google-oauth-flask
 ```
 
 ### 2. Install dependencies
