@@ -144,4 +144,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Google OAuth 2.0 Documentation](https://developers.google.com/identity/protocols/oauth2)
 - [Flask Documentation](https://flask.palletsprojects.com/)
 - [Authlib Documentation](https://docs.authlib.org/)
-```
