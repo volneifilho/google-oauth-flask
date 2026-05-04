@@ -145,14 +145,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Flask Documentation](https://flask.palletsprojects.com/)
 - [Authlib Documentation](https://docs.authlib.org/)
 ```
-
----
-
-### Highlights of the README:
-1. **Purpose:** Clearly explains what the repository does.
-2. **Setup Instructions:** Step-by-step guide for local setup and deployment on Vercel.
-3. **Structure:** Includes a visual overview of the project files.
-4. **Common Issues:** Helps users troubleshoot common problems.
-5. **Acknowledgments:** Provides links to useful resources.
-
-Feel free to tweak it according to your preferences! 😊
